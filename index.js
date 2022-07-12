@@ -9,7 +9,10 @@ console.log (parola);
     const arrayParola = parola.split ("");
     console.log (arrayParola);
 
-    //2b. Scomposto l' array confrontarlo con un ciclo con la 'parola' inserita è palindroma
+//3 Scomposto l' array va confrontato con Array al contrario (palindromo)
+
+const paroleReversed = arrayParola.reverse();
+console.log(reversed);
 
    
 
