@@ -20,13 +20,37 @@
   }
   console.log ( " reversed array is " + array2);
 
+  //ricorstuisci array al contrario in una stringa
+
+  const array2_Stringa = array2.join('');
+  console.log (array2_Stringa)
+
+  //check che ilconfronto tra i due array sia palindroma  con ciclo
+
+  if (parola == array2_Stringa ) {
+    alert ('la parola è palindroma')
+  } else {
+    alert ('la parola NON è palindroma')
+  }
+
     
 //4.Funzione per capire se la parola inserita è palindroma:
   
-  //function check_array1_array2 () {
-    //blocco di codice
+  function palindroma () {
+  
 
 
-    //return risultato
-  //} 
+
+
+
+
+
+
+
+
+
+
+
+    return true
+  } 
 
