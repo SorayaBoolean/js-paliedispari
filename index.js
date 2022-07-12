@@ -32,9 +32,6 @@ palindroma (parola, ) ;
   } else {
     alert ('la parola NON è palindroma')
   }
-
-
-
     return 
   } 
 
