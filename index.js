@@ -7,4 +7,6 @@ console.log (parola);
     //2a. Crea variabile dove inserire la parola da scomporre
     //3b. Scomposto l' array confrontarlo con un ciclo con la 'parola' inserita
 
+    const arrayParola = parola.split ("");
+    console.log (arrayParola);
 
